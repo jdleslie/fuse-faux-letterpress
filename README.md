@@ -1,5 +1,5 @@
 # fuse-faux-letterpress
-Faux Letterpress printing  with Fiskars Fuse
+Faux Letterpress printing with Fiskars Fuse, see the GitHub wiki for [project notes](/wiki/)
 
 ## Brayer Support
 
