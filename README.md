@@ -1,5 +1,9 @@
 # fuse-faux-letterpress
-Faux Letterpress printing with Fiskars Fuse, see the GitHub wiki for [project notes](https://github.com/jdleslie/fuse-faux-letterpress/wiki) and to share your experiences and results.
+Faux Letterpress printing with Fiskars Fuse, see the GitHub wiki for [project notes](https://github.com/jdleslie/fuse-faux-letterpress/wiki). This is how I printed wedding invitations, programs, etc. in 2015.
+
+Did you find this helpful? Share your results!
+
+Questions welcome via GitHub Issue Tracker
 
 ## Brayer Support
 
